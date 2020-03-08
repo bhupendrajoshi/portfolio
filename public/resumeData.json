@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name":"Bhupendra Joshi",
+    "occupation":"Software Engineer",
+    "description":"Team leader + Software Engineer specialising in building teams to develop web-apps, enterprise application, desktop applications and system utilities",
+    "image":"profilepic.jpg",
+    "bio":"Team leader + Software Engineer specialising in building teams to develop web-apps, enterprise application, desktop applications and system utilities using technologies like ReactJs, NodeJs, Python, C#, .Net, ASP.Net, WPF, WCF, C++. Well versed with Agile methodology. Keen interest in design patterns and having a good understanding of patterns, methodologies and frameworks like CQRS, Event Sourcing, DDD, TDD, MVVM, MVP and Spring.Net. I am committed to further improving my software development and craftsmanship skills. I am seeking a role which provides an environment where I can learn can capitalise on my craftsmanship capabilities.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "bhupendra.joshi@gmail.com",
+    "phone": "+31 (0) 638 753 951",
+    "address":{
+      "street":"Generaal Eisenhowerpleing 5",
+      "city":"Rijswijk",
+      "state":"Zuid Holland",
+      "zip": "2288AE"
+    },
+    "website": "http://www.devcentraal.nl",
+    "resumedownload":"https://drive.google.com/file/d/1LhSKG9xN_V409xT4VeDQ0oOk0qPBUmGQ/view?usp=sharing",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/bhupendrajoshi",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"medium",
+        "url":"https://medium.com/@bhupendrajoshi",
+        "className":"fa fa-medium"
+      },
+      {
+        "name":"stackoverflow",
+        "url":"https://stackoverflow.com/users/447974/bhupendra-joshi?tab=profile",
+        "className":"fa fa-stack-overflow"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Fullstack web and enterprise systems",
+    "education":[
+      {
+        "school":"University of Pune",
+        "degree":"M.Sc. (Masters in computer science)",
+        "graduated":"April 2005",
+        "description":"C++, MFC, UNIX, Networking, JAVA"
+      },
+      {
+        "school":"University of Pune",
+        "degree":"B.C.S (Bachelor of computer science)",
+        "graduated":"April 2003",
+        "description":"Pascal, C, Statistics, WinApi, VB"
+      }
+    ],
+    "work":[
+      {
+        "company":"GfK",
+        "title":"Team Leader System Developer",
+        "years":"April 2017 - Present",
+        "description":"Building teams to help develops solutions for market research. Managing expectations with stakeholders and development teams. Developed a system that monitors television audience behaviour and reports usage information. Developed a platform to study the timeliness of mail delivery system."
+      },
+      {
+        "company":"Senior Software Engineer",
+        "title":"Exact",
+        "years":"May 2016 - April 2017",
+        "description":"Developing customer success platform, a Salesforce community to manage customer interaction and forums. Part of the team responsible for backoffice work automation related to exact online like payments, contract management, integration with other external service providers, etc."
+      },
+      {
+        "company":"Software Engineer",
+        "title":"eVision",
+        "years":"September 2014 - April 2016",
+        "description":"Developing workflow automation for safety and hazard perception web-based enterprise applicaiton. A portal developed in ASP.net, C# using DDD, CQRS and event sourcing."
+      },
+      {
+        "company":"Software Engineer",
+        "title":"Moog",
+        "years":"May 2011 - August 2014",
+        "description":"Developing a test suite to serve user needs in order to communicate with the test hardware which performs random vibration testing on vehicles. The suite allows configuring the test hardware (tuning, calibration, etc.), processing real-time data from the test hardware (feedback signals), create and execute tests. Suite also involves allowing user to customize features pages/views based on the authorization level of the user. The features are developed as addin for plug-in architecture. It also required that the features could also be developed on different platform like Web, Winforms, Silverlight component but the flow shall be consistent thus the client side framework was made to be independent of Windows components and server side features were exposed as WCF services."
+      },
+      {
+        "company":"Principal Product Engineer",
+        "title":"Jopasana + CoreObjects + Symphony Infospace",
+        "years":"January 2005 - February 2011",
+        "description":"Part of development teams working as offshore development centers for automotive companies. Developing system utilities, desktop applications and enterprise applications. Initial few years did embbedded development + system utilities."
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJs",
+        "level":"75%"
+      },
+      {
+        "name":"C#",
+        "level":"90%"
+      },
+      {
+        "name":"Python",
+        "level":"65%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"65%"
+      },
+      {
+        "name":"TDD",
+        "level":"90%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"HTML5",
+        "level":"60%"
+      },
+      {
+        "name":"Sql Server / MySql",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "articles": [
+      {
+        "title":"Thinking in Git",
+        "url":"https://medium.com/@bhupendrajoshi/thing-about-git-ac15ae427cc8"
+      },
+      {
+        "title":"Working with Git",
+        "url":"https://medium.com/@bhupendrajoshi/working-with-git-67e3c5bf397e"
+      },
+      {
+        "title":"A day in the life of a Ruby on Rails app",
+        "url":"https://medium.com/@bhupendrajoshi/a-day-in-the-life-of-a-ruby-on-rails-app-2f0e8e3b16da"
+      },
+      {
+        "title":"Continuous integration for Salesforce lightning development",
+        "url":"https://medium.com/salesforce-developers/continuous-integration-for-salesforce-lightning-development-a59adf1a21be"
+      }
+    ]
+  }
+}
